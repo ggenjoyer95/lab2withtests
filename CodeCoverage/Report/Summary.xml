@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>3/29/2025 - 12:30:37 AM</Generatedon>
+    <Parser>MultiReportParser (3x OpenCoverParser)</Parser>
+    <Assemblies>1</Assemblies>
+    <Classes>6</Classes>
+    <Files>6</Files>
+    <Coveredlines>326</Coveredlines>
+    <Uncoveredlines>418</Uncoveredlines>
+    <Coverablelines>744</Coverablelines>
+    <Totallines>1211</Totallines>
+    <Linecoverage>43.8</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>63</Coveredmethods>
+    <Totalmethods>78</Totalmethods>
+    <Methodcoverage>80.7</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly-CSharp" classes="6" coverage="43.8" coveredlines="326" coverablelines="744" totallines="1211" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="63" totalmethods="78" methodcoverage="80.7">
+      <Class name="Cell" coverage="100" coveredlines="22" coverablelines="22" totallines="43" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100" />
+      <Class name="CellView" coverage="100" coveredlines="44" coverablelines="44" totallines="66" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100" />
+      <Class name="GameField" coverage="29" coveredlines="130" coverablelines="448" totallines="557" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="15" totalmethods="26" methodcoverage="57.6" />
+      <Class name="GameInputActions" coverage="95.6" coveredlines="88" coverablelines="92" totallines="352" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="31" totalmethods="32" methodcoverage="96.8" />
+      <Class name="PlayerInpHandler" coverage="29.9" coveredlines="41" coverablelines="137" totallines="175" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="6" totalmethods="9" methodcoverage="66.6" />
+      <Class name="SaveData" coverage="100" coveredlines="1" coverablelines="1" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="1" methodcoverage="100" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
